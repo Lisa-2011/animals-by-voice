@@ -1,0 +1,23 @@
+body{
+    background-color:#a9dce3 ;
+    font-family: 'Press Start 2P', cursive;
+}
+ 
+.heading_div{
+    background-color: white;
+    color: black;
+}
+
+#explanation{
+    font-family: 'Press Start 2P', cursive;
+     font-weight: 200;
+     word-spacing: 8px;
+    font-size: 20px;
+}
+.copy_right_footer{
+    position: fixed bottom;
+    background-color: navy;
+    color: white;
+    max-width: fit-content;
+    
+}
